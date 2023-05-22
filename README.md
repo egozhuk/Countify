@@ -32,6 +32,6 @@ I don't know what to erite here, because it's the simplest calculator.
 List of supported operations will be expanded in future updates)
 
 Possible errors while installation:
-1) Program from not tested developer:
+1) Program from unknown developer:
    
    Go to your program in Finder, push control and click open. Now it should offer to open program. 
