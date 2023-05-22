@@ -33,4 +33,5 @@ List of supported operations will be expanded in future updates)
 
 Possible errors while installation:
 1) Program from not tested developer:
+   
    Go to your program in Finder, push control and click open. Now it should offer to open program. 
