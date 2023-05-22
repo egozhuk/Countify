@@ -6,7 +6,7 @@ This calculator have only two buttons and one textfield. All you need to do is j
 
 Instruction to install.
 1) Go to releases in this repository
-2) Choose last release
+2) Choose latest release
 3) Download .dmg file
 4) Open .dmg file
 5) Copy program from .dmg to your applications folder
