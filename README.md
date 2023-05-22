@@ -3,7 +3,7 @@
 This calculator have only two buttons and one textfield. All you need to do is just write your expression and push "=" button. 
 
 Instruction to install.
-1) Go to releases in this gitHub
+1) Go to releases in this repository
 2) Choose last release
 3) Download .dmg file
 4) Open .dmg file
