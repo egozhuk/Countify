@@ -25,7 +25,7 @@ List of supported operations:
 6) brackets - ()
 7) sqrt()
 
-For your comfortable I add button to copy answer to your clipboard.
+For your comfort I add button to copy answer to your clipboard.
 
 I don't know what to erite here, because it's the simplest calculator.
 
