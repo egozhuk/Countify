@@ -5,10 +5,10 @@ This calculator have only two buttons and one textfield. All you need to do is j
 This calculator supports operation priorities. 
 
 List of supported operations:
-1) +
-2) -
-3) *
-4) /
+1) "+"
+2) "-"
+3) "*"
+4) "/"
 5) unary minus
 6) ()
 7) sqrt()
