@@ -2,7 +2,7 @@
 👋It is the easiest to use calculator for MacOS!
 This calculator have only two buttons and one textfield. All you need to do is just write your expression and push "=" button.
 
-<img width="86" alt="Снимок экрана 2023-05-23 в 02 06 12" src="https://github.com/egozhuk/Countify/assets/46131362/0bbbde2f-9444-43bb-9844-e67b65015084">
+<img width="128" alt="Countify" src="https://github.com/egozhuk/Countify/assets/46131362/5cd55865-bdd1-4b0c-b4df-e81ae52bdd1d">
 
 Instruction to install.
 1) Go to releases in this repository
