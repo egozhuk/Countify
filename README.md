@@ -2,7 +2,9 @@
 
 ## Latest news:
 2.0 V will be released 28.05.23
-### New functions
+### What's new?
+New logo
+
 New Settings view. It can be openned through clicking on Countify->Settings in menubar.
 There will be a list of supported operations. And a few new settings:
 1) Text size
