@@ -1,4 +1,18 @@
 # Countify
+
+## Latest news:
+2.0 V will be released 28.05.23
+### New functions
+New Settings view. It can be openned through clicking on Countify->Settings in menubar.
+There will be a list of supported operations. And a few new settings:
+1) Text size
+2) Color theme (dark / light)
+3) Maybe more new settings
+
+### Changes:
+New parsing system(my own). It works a little faster And it will have changes in syntax. But it is much easier for adding new operations. 
+---
+
 👋It is the easiest to use calculator for MacOS!
 This calculator have only two buttons and one textfield. All you need to do is just write your expression and push "=" button.
 
