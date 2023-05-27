@@ -10,7 +10,8 @@ There will be a list of supported operations. And a few new settings:
 3) Maybe more new settings
 
 ### Changes:
-New parsing system(my own). It works a little faster And it will have changes in syntax. But it is much easier for adding new operations. 
+
+New parsing system(my own). It works a little faster and it will have changes in syntax. But it is much easier for adding new operations. 
 ---
 
 👋It is the easiest to use calculator for MacOS!
