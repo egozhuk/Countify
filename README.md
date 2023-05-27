@@ -45,6 +45,9 @@ For your comfort I add button to copy answer to your clipboard.
 
 I don't know what to erite here, because it's the simplest calculator.
 
+Contact:
+<countifyinc@gmail.com>
+
 List of supported operations will be expanded in future updates)
 
 Possible errors while installation:
