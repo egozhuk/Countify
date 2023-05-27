@@ -23,7 +23,7 @@ List of supported operations:
 4) "/"
 5) unary minus
 6) brackets - ()
-7) sqrt()
+7) sqrt() $\sqrt(9)$
 
 For your comfort I add button to copy answer to your clipboard.
 
