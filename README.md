@@ -23,7 +23,7 @@ List of supported operations:
 4) "/"
 5) unary minus
 6) brackets - ()
-7) 3 s 9 = $\sqrt[3]{9}$
+7) 3 s 9 = $\sqrt[3]{9}$ (Not supported in 1.0 V. It wil be supported in V2(will be released in a week))
 
 For your comfort I add button to copy answer to your clipboard.
 
