@@ -1,7 +1,7 @@
 # Countify
 
 ## Latest news:
-2.0 V will be released 28.05.23
+2.0 V will be released 03.06.23
 ### What's new?
 New logo
 
