@@ -10,7 +10,7 @@ What do you think about it?
 
 Also I want to announce new operation. It is logarithm.
 
-2.0 V will be released 03.06.23
+## 2.0 V will be released 03.06.23
 ### What's new?
 New logo
 
