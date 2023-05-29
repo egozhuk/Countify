@@ -1,6 +1,13 @@
 # Countify
 
 ## Latest news:
+### 29.05.23
+I want to introduce you new logo:
+![CountifyLogoV2](https://github.com/egozhuk/Countify/assets/46131362/cbf3acca-d73b-4ac8-bd2d-1573936a6874)
+What do you think about it?
+
+Also I want to announce new operation. It is logarithm.
+
 2.0 V will be released 03.06.23
 ### What's new?
 New logo
