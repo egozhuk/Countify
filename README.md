@@ -1,6 +1,9 @@
 # Countify
 
 ## Latest news:
+### 30.05.23
+Simple but usefull new feature - you can press enter to evaluate expression(button will remain)
+
 ### 29.05.23
 I want to announce new operation. It is logarithm.
 This app become not full program, it become more small and it will be just a popover in StatusBar.
