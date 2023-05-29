@@ -3,7 +3,8 @@
 ## Latest news:
 ### 29.05.23
 I want to introduce you new logo:
-![CountifyLogoV2](https://github.com/egozhuk/Countify/assets/46131362/cbf3acca-d73b-4ac8-bd2d-1573936a6874)
+![mac-128x128](https://github.com/egozhuk/Countify/assets/46131362/2ff1699b-4995-4f03-b315-87ff50586600)
+
 What do you think about it?
 
 Also I want to announce new operation. It is logarithm.
