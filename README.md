@@ -3,7 +3,8 @@
 ## Latest news:
 ### 29.05.23
 I want to introduce you new logo:
-![mac-128x128](https://github.com/egozhuk/Countify/assets/46131362/2ff1699b-4995-4f03-b315-87ff50586600)
+
+![mac-256x256](https://github.com/egozhuk/Countify/assets/46131362/ff4f5191-b556-4f66-aee9-4c536f5449d4)
 
 What do you think about it?
 
