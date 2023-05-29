@@ -2,13 +2,7 @@
 
 ## Latest news:
 ### 29.05.23
-I want to introduce you new logo:
-
-![mac-256x256](https://github.com/egozhuk/Countify/assets/46131362/ff4f5191-b556-4f66-aee9-4c536f5449d4)
-
-What do you think about it?
-
-Also I want to announce new operation. It is logarithm.
+I want to announce new operation. It is logarithm.
 
 ## 2.0 V will be released 03.06.23
 ### What's new?
