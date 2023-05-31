@@ -14,7 +14,7 @@ This app become not full program, it become more small and it will be just a pop
 
 <img width="520" alt="Снимок экрана 2023-05-29 в 20 46 35" src="https://github.com/egozhuk/Countify/assets/46131362/c982dcac-a0a7-498d-8aaa-af14b7867936">
 
-## 2.0 V will be released 01.06.23
+## 2.0 V released NOW
 ### What's new?
 New logo
 
