@@ -1,6 +1,10 @@
 # Countify
 
 ## Latest news:
+### 31.05.23
+V 2.0 is out! New parsing system and rethinking the work of the program!
+All new features you can find lower.
+
 ### 30.05.23
 Simple but usefull new feature - you can press enter to evaluate expression(button will remain)
 
